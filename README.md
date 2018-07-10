@@ -1,2 +1,2 @@
 # cursodocker-website
-Repo del curso docker
+Sitio web de ejemplo utilizado en el curso de Docker
